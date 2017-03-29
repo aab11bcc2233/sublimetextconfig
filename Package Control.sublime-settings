@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"auto-save",
+		"Babel",
+		"CSScomb",
+		"Emmet",
+		"ESLint",
+		"HTML-CSS-JS Prettify",
+		"KeyboardSpellCheck",
+		"Package Control",
+		"react-native-snippets",
+		"SideBarEnhancements",
+		"Theme - Dark Material",
+		"View In Browser"
+	]
+}
