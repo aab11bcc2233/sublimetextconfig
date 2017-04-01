@@ -11,7 +11,7 @@
 		},
 
 		{
-			"keys": ["ctrl+shift+enter"],
+			"keys": ["command+shift+enter"],
 			"command": "run_macro_file",
 			"args": {"file": "res://Packages/User/add-semicolon.sublime-macro"}
 		}
